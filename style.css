@@ -1,0 +1,129 @@
+body{
+     
+     background-color: #960018 ;   
+}
+
+
+
+a{
+    
+    text-decoration: none;
+
+ }
+
+
+
+.class1 {
+
+    background-color: #FFFFFF  ;
+    width: 250px;
+    margin-top: 90px;
+    margin-left: 560px;
+    padding: 20px 40px;
+    border-radius: 3px;
+
+   
+
+}
+
+
+
+.class1 h1{
+
+    text-align: center;
+
+
+}
+
+
+
+.form{
+
+    padding-top: 20px;
+
+}
+
+
+
+input{
+
+    width: 250px;
+    margin-top: 8px;
+    padding: 12px 4px;
+    border-radius: 3px;
+    border: none;
+    color: #DCE8E4;
+    background-color: #FFFFFF; 
+    color: #E9EBF9  ;
+    
+
+}
+
+
+
+.btn{
+
+    width: 260px;
+    padding: 10px 4px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0D15F0; 
+    color: white; 
+    font-weight: bold;
+    
+
+}
+
+h5{
+
+    text-align: center;
+    color: #38383D  ;
+    font-weight: bold;
+
+}
+
+
+
+.fb{
+
+    text-align: center;
+    color: #0D15F0   ;
+    font-weight: bold;
+
+}
+
+
+
+.forgot{
+
+    text-align: center;
+    padding-top: 10px;
+    color: #38383D ; 
+    
+
+}
+
+
+
+.class2
+
+{
+    text-align: center;
+    background-color: #FFFFFF  ;
+    width: 240px ;
+    margin : 10px;
+    padding: 5px 45px;
+    margin-left: 560px;
+    border-radius: 3px;
+   
+
+}
+
+
+.signup{
+    color: #0D15F0 ;
+    font-weight: bold;
+
+}
+
